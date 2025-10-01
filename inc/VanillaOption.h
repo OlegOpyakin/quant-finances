@@ -1,7 +1,7 @@
 #ifndef __VANILLA_OPTION_H
 #define __VANILLA_OPTION_H
 
-#include "func.h"
+#include "Func.h"
 
 class VanillaOption {
 private:

@@ -1,7 +1,7 @@
 #ifndef __FUNC_CC
 #define __FUNC_CC
 
-#include "func.h"
+#include "Func.h"
 
 double normalCDF(double value) // Cumulative Normal Distribution Function
 {

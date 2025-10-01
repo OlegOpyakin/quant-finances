@@ -1,8 +1,7 @@
 #ifndef __VANILLA_OPTION_CC
 #define __VANILLA_OPTION_CC
 
-#include "VanillaOption.h" // change later to "VanillaOption.h" !!!!
-#include <cmath>
+#include "VanillaOption.h"
 
 void VanillaOption::init_() {
     K_ = 100.0;
